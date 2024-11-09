@@ -11,6 +11,7 @@ A traffic lights system implemented with MicroPython &amp; using a WaveShare Ras
 
 ## Simulation:
 Downloaded from https://wokwi.com/projects/414082783129005057
+
 Simulate this project on https://wokwi.com
 
 _Note_: The data values of the IR Remote on Wowki differ from the ones from the WaveShare Raspberry Pi Pico Entry-Level Sensor Kit.
